@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Arnold
+title: Daniel R. Arnold
 
 # Is this the primary user of the site?
 superuser: true
@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Daniel R. Arnold is an assistant research economist and research director of the [Petris Center](https://petris.org/) at the [UC Berkeley School of Public Health](https://publichealth.berkeley.edu/). His research focuses on the impact of health care market consolidation. 
+I am an assistant research economist and research director of the [Petris Center](https://petris.org/) at the [UC Berkeley School of Public Health](https://publichealth.berkeley.edu/). My research focuses on the impact of market power on health care prices, quality, access, and economy-wide wages. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
